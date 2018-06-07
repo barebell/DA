@@ -50,8 +50,10 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Journal Papers
 
-- **DKTL**: Domain Class Consistency Based Transfer Learning For Image Classiﬁcation Across Domains [[InforSci2017]](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S0020025516313159/1-s2.0-S0020025516313159-main.pdf) 
+- **DKTL**: Domain Class Consistency Based Transfer Learning For Image Classiﬁcation Across Domains [[InforSci2017]](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S0020025516313159/1-s2.0-S0020025516313159-main.pdf)
+- **Ding's**: Deep Domain Generalization With Structured Low-Rank Constraint [[TIP2017]](ieeexplore.ieee.org/iel7/83/4358840/08053784.pdf)
 - **BSWDA**: Beyond Sharing Weights for Deep Domain Adaptation [[TPAMI2016]](https://www.computer.org/csdl/trans/tp/preprint/08310033.pdf)
+- **SCA**: Scatter Component Analysis: A Uniﬁed Framework for Domain Adaptation and Domain Generalization [[TPAMI2016]](https://www.computer.org/csdl/trans/tp/2017/07/07542175.pdf)
 - **DME**: Distribution-Matching Embedding for Visual Domain Adaptation [[JMLR2016]](www.jmlr.org/papers/volume17/15-207/15-207.pdf)
 - **DANN**: Domain-Adversarial Training of Neural Networks [[JMLR2016]](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf) [[Tensorflow(Official)]](https://github.com/pumpikano/tf-dann) [[Pytorch]](https://github.com/fungtion/DANN) [[Pytorch]](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
 - **LSCDA**: Unsupervised Domain Adaptation With Label and Structural Consistency [[TIP2016]](https://ieeexplore.ieee.org/iel7/83/7581012/07569007.pdf)
