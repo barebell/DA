@@ -4,21 +4,17 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 # Conference Papers
 
 - **Saito's**: Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427) [[TensorFlow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
-- Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
-- **SimNet**: Unsupervised Domain Adaptation with Similarity Learning [[arXiv 18 Apr 2018]](https://arxiv.org/abs/1711.08995)
-- Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[arXiv  12 Apr 2018]](https://arxiv.org/abs/1804.04448)
-- Causal Generative Domain Adaptation Networks [[Arxiv 12 Apr 2018]](https://arxiv.org/abs/1804.04333)
-- Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
+- **ARTNs**: Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
+- **CPUA**: Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[ICML2018 Poster]](https://arxiv.org/abs/1804.04448)
+- **PDA**: Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
 - **MCD_DA**: Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.02560) [[Pytorch(Official)]](https://github.com/mil-tokyo/MCD_DA)
-- Domain Generalization with Adversarial Feature Learning [[CVPR2018]](https://www.researchgate.net/profile/Haoliang_Li5/publication/324691022_Domain_Generalization_with_Adversarial_Feature_Learning/links/5add5329458515c60f5f3187/Domain-Generalization-with-Adversarial-Feature-Learning.pdf)
+- **RPTDA**: Residual Parameter Transfer for Deep Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1711.07714)
 - **DIFA**: Adversarial Feature Augmentation for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1711.08561) [[TensorFlow 1.3(Official)]](https://github.com/ricvolpi/adversarial-feature-augmentation)
-- Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388)
+- **SAN**: Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388)
 - **DupGAN**: Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[CVPR2018]](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf) [[Pytorch 0.1(Official)]](http://vipl.ict.ac.cn/view_database.php?id=6)
-- Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1704.01705) [[Pytorch(Official)]](https://github.com/yogeshbalaji/Generate_To_Adapt)
-- Image to Image Translation for Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.00479)
-- Unsupervised Domain Adaptation with Similarity Learning [[CVPR2018]](https://arxiv.org/abs/1711.08995)
-- Conditional Generative Adversarial Network for Structured Domain Adaptation [CVPR2018 Not released]
-- Collaborative and Adversarial Network for Unsupervised Domain Adaptation [CVPR2018 Not released]
+- **GTA**: Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1704.01705) [[Pytorch(Official)]](https://github.com/yogeshbalaji/Generate_To_Adapt)
+- **SimNet**: Unsupervised Domain Adaptation with Similarity Learning [[arXiv 18 Apr 2018]](https://arxiv.org/abs/1711.08995)
+- **iCAN**: Collaborative and Adversarial Network for Unsupervised Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1410.pdf)
 - Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [CVPR2018 Not released]
 - **MADA**: Multi-Adversarial Domain Adaptation [[AAAI2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) [[Caffe(Official)]](https://github.com/thuml/MADA)
 - **WDGRL**: Wasserstein Distance Guided Representation Learning for Domain Adaptation [[AAAI2018]](https://arxiv.org/abs/1707.01217) [[Tensorflow 1.3.0(Official)]](https://github.com/RockySJ/WDGRL)
