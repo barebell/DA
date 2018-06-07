@@ -6,6 +6,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **DeppJDOT**: DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [[arXiv 27 Mar 2018]](https://arxiv.org/pdf/1803.10081.pdf)
 - **Saito's**: Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427) [[TensorFlow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
 - **ARTNs**: Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
+- **CMD**: Robust unsupervised domain adaptation for neural networks via moment alignment [[arXiv 28 Mar 2018]](https://arxiv.org/pdf/1711.06114.pdf) [[Keras(Official)]](https://github.com/wzell/mann)
 - **CPUA**: Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[ICML2018 Poster]](https://arxiv.org/abs/1804.04448)
 - **PDA**: Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
 - **MCD_DA**: Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.02560) [[Pytorch(Official)]](https://github.com/mil-tokyo/MCD_DA)
@@ -20,7 +21,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **iCAN**: Collaborative and Adversarial Network for Unsupervised Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1410.pdf)
 - **RAAN**: Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1224.pdf)
 - **MADA**: Multi-Adversarial Domain Adaptation [[AAAI2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) [[Caffe(Official)]](https://github.com/thuml/MADA)
-- **WDGRL**: Wasserstein Distance Guided Representation Learning for Domain Adaptation [[AAAI2018]](https://arxiv.org/abs/1707.01217) [[Tensorflow 1.3.0(Official)]](https://github.com/RockySJ/WDGRL)
+- **WDGRL**: Wasserstein Distance Guided Representation Learning for Domain Adaptation [[AAAI2018]](https://arxiv.org/abs/1707.01217) [[Tensorflow 1.3.0(Official)]](https://github.com/RockySJ/WDGRL) [[Pytorch]](https://github.com/jvanvugt/pytorch-domain-adaptation)
 - **DIRT-T**: A DIRT-T Approach to Unsupervised Domain Adaptation [[ICLR2018]](https://openreview.net/forum?id=H1q-TM-AW) [[Tensorflow(Official)]](https://github.com/RuiShu/dirt-t)
 - **MT**: Self-ensembling for Visual Domain Adaptation [[ICLR2018]](https://openreview.net/pdf?id=rkpoTaxA-) [[Pytorch(Official)]](https://github.com/Britefury/self-ensemble-visual-domain-adapt/)
 - **CCN**: Learning to Cluster in Order to Transfer Across Domains and Tasks [[ICLR2018]](https://openreview.net/pdf?id=ByRWCqvT-)
@@ -33,7 +34,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **Luo's**: Label Efficient Learning of Transferable Representations acrosss Domains and Tasks [[NIPS2017]](http://vision.stanford.edu/pdf/luo2017nips.pdf) [[Project]](http://alan.vision/nips17_website/)
 - **JDOT**: Joint Distribution Optimal Transportation for Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [[Python(Official)]](https://github.com/rflamary/JDOT)
 - **FADA**: Few-Shot Adversarial Domain Adaptation [[NIPS2017]](https://papers.nips.cc/paper/7244-few-shot-adversarial-domain-adaptation.pdf)
-- **ADDA**: Adversarial Discriminative Domain Adaptation [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)  [[Tensorflow(Official)]](https://github.com/erictzeng/adda) [[Pytorch]](https://github.com/corenel/pytorch-adda)
+- **ADDA**: Adversarial Discriminative Domain Adaptation [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf)  [[Tensorflow(Official)]](https://github.com/erictzeng/adda) [[Pytorch]](https://github.com/corenel/pytorch-adda) [[Pytorch]](https://github.com/jvanvugt/pytorch-domain-adaptation)
 - **PixelDA**: Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bousmalis_Unsupervised_Pixel-Level_Domain_CVPR_2017_paper.pdf) [[Tensorflow(Official)]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation) [[Pytorch]](https://github.com/vaibhavnaagar/pixelDA_GAN)
 - **JGSA**: Joint Geometrical and Statistical Alignment for Visual Domain Adaptation [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Joint_Geometrical_and_CVPR_2017_paper) [[Matlab(Official)]](https://www.uow.edu.au/~jz960/)
 - **ILS**: Learning an Invariant Hilbert Space for Domain Adaptation [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Herath_Learning_an_Invariant_CVPR_2017_paper.pdf) [[Matlab(Official)]](https://bitbucket.org/sherath/ils/src)
@@ -42,10 +43,12 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **WDAN**: Mind the Class Weight Bias: Weighted Maximum Mean Discrepancy for Unsupervised Domain Adaptation [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yan_Mind_the_Class_CVPR_2017_paper.pdf) [[Caffe(Official)]](https://github.com/yhldhit/WMMD-Caffe)
 - **JAN**: Deep Transfer Learning with Joint Adaptation Networks [[ICML2017]](proceedings.mlr.press/v70/long17a/long17a.pdf) [[Pytorch 0.2.0_3(Official)]](https://github.com/thuml/Xlearn)
 - **ATDA**: Asymmetric Tri-training for Unsupervised Domain Adaptation [[ICML2017]](proceedings.mlr.press/v70/saito17a/saito17a.pdf) [[Tensorflow(Official)]](https://github.com/ksaito-ut/atda) [[Tensorflow]](https://github.com/vtddggg/ATDA) [[Pytorch]](https://github.com/corenel/pytorch-atda)
+- **AdaBN**: Revisiting Batch Normalization For Practical Domain Adaptation [[ICLR2017]](https://openreview.net/pdf?id=BJuysoFeg)
 - **DSN**: Domain Separation Networks [[NIPS2016]](http://papers.nips.cc/paper/6254-domain-separation-networks) [[Tensorflow(Official)]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation/domain_separation) [[Pytorch]](https://github.com/fungtion/DSN)
 - **Sener's**: Learning Transferrable Representations for Unsupervised Domain Adaptation [[NIPS2016]](http://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
 - **RTN**: Unsupervised Domain Adaptation with Residual Transfer Networks [[NIPS2016]](https://papers.nips.cc/paper/6110-unsupervised-domain-adaptation-with-residual-transfer-networks.pdf)
 - **DRCN**: Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation [[ECCV2016]](https://arxiv.org/abs/1607.03516) [[Tensorflow 1.0.1(Official)]](https://github.com/ghif/drcn) [[Pytorch]](https://github.com/fungtion/DRCN)
+- Deep CORAL: Deep CORAL: Correlation Alignment for Deep Domain Adaptation [[ECCV2016]](https://arxiv.org/pdf/1607.01719.pdf) [[C(Official)]](https://github.com/VisionLearningGroup/CORAL) [[Pytorch 0.2]](https://github.com/SSARCandy/DeepCORAL)
 
 
 # Journal Papers
@@ -57,5 +60,12 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **DME**: Distribution-Matching Embedding for Visual Domain Adaptation [[JMLR2016]](www.jmlr.org/papers/volume17/15-207/15-207.pdf)
 - **DANN**: Domain-Adversarial Training of Neural Networks [[JMLR2016]](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf) [[Tensorflow(Official)]](https://github.com/pumpikano/tf-dann) [[Pytorch]](https://github.com/fungtion/DANN) [[Pytorch]](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
 - **LSCDA**: Unsupervised Domain Adaptation With Label and Structural Consistency [[TIP2016]](https://ieeexplore.ieee.org/iel7/83/7581012/07569007.pdf)
-- **DANN**: Unsupervised Domain Adaptation by Backpropagation [[ICML2015]](http://proceedings.mlr.press/v37/ganin15.pdf) [[Caffe(Official)]](https://github.com/ddtm/caffe/tree/grl) [[Tensorflow]](https://github.com/shucunt/domain_adaptation)
+- **DANN**: Unsupervised Domain Adaptation by Backpropagation [[ICML2015]](http://proceedings.mlr.press/v37/ganin15.pdf) [[Caffe(Official)]](https://github.com/ddtm/caffe/tree/grl) [[Tensorflow]](https://github.com/shucunt/domain_adaptation) [[Pytorch]](https://github.com/jvanvugt/pytorch-domain-adaptation)
 - **FLDA**: Feature-Level Domain Adaptation [[JMLR2016]](http://www.jmlr.org/papers/volume17/15-206/15-206.pdf) [[Matlab(Official)]](https://github.com/wmkouw/flda) [[Python(Official)]](https://github.com/wmkouw/libTLDA)
+
+
+# Other Resources
+
+- [transferlearning](https://github.com/jindongwang/transferlearning)
+- [awsome-domain-adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
+- [awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning)
