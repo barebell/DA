@@ -3,6 +3,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **DeppJDOT**: DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [[arXiv 27 Mar 2018]](https://arxiv.org/pdf/1803.10081.pdf)
 - **Saito's**: Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427) [[TensorFlow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
 - **ARTNs**: Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
 - **CPUA**: Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[ICML2018 Poster]](https://arxiv.org/abs/1804.04448)
@@ -13,9 +14,11 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **SAN**: Partial Transfer Learning with Selective Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1707.07901)[[paper weekly]](http://www.paperweekly.site/papers/1388)
 - **DupGAN**: Duplex Generative Adversarial Network for Unsupervised Domain Adaptation [[CVPR2018]](http://vipl.ict.ac.cn/uploadfile/upload/2018041610083083.pdf) [[Pytorch 0.1(Official)]](http://vipl.ict.ac.cn/view_database.php?id=6)
 - **GTA**: Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[CVPR2018]](https://arxiv.org/abs/1704.01705) [[Pytorch(Official)]](https://github.com/yogeshbalaji/Generate_To_Adapt)
-- **SimNet**: Unsupervised Domain Adaptation with Similarity Learning [[arXiv 18 Apr 2018]](https://arxiv.org/abs/1711.08995)
+- **SimNet**: Unsupervised Domain Adaptation with Similarity Learning [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1887.pdf)
+- **KWC,KOT**: Aligning Infinite-Dimensional Covariance Matrices in Reproducing Kernel Hilbert Spaces for Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3383.pdf)
+- **DCTN**: Deep Cocktail Network: Multi-source Unsupervised Domain Adaptation with Category Shift [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1880.pdf)
 - **iCAN**: Collaborative and Adversarial Network for Unsupervised Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1410.pdf)
-- Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [CVPR2018 Not released]
+- **RAAN**: Re-Weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1224.pdf)
 - **MADA**: Multi-Adversarial Domain Adaptation [[AAAI2018]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf) [[Caffe(Official)]](https://github.com/thuml/MADA)
 - **WDGRL**: Wasserstein Distance Guided Representation Learning for Domain Adaptation [[AAAI2018]](https://arxiv.org/abs/1707.01217) [[Tensorflow 1.3.0(Official)]](https://github.com/RockySJ/WDGRL)
 - **DIRT-T**: A DIRT-T Approach to Unsupervised Domain Adaptation [[ICLR2018]](https://openreview.net/forum?id=H1q-TM-AW) [[Tensorflow(Official)]](https://github.com/RuiShu/dirt-t)
@@ -40,6 +43,8 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **JAN**: Deep Transfer Learning with Joint Adaptation Networks [[ICML2017]](proceedings.mlr.press/v70/long17a/long17a.pdf) [[Pytorch 0.2.0_3(Official)]](https://github.com/thuml/Xlearn)
 - **ATDA**: Asymmetric Tri-training for Unsupervised Domain Adaptation [[ICML2017]](proceedings.mlr.press/v70/saito17a/saito17a.pdf) [[Tensorflow(Official)]](https://github.com/ksaito-ut/atda) [[Tensorflow]](https://github.com/vtddggg/ATDA) [[Pytorch]](https://github.com/corenel/pytorch-atda)
 - **DSN**: Domain Separation Networks [[NIPS2016]](http://papers.nips.cc/paper/6254-domain-separation-networks) [[Tensorflow(Official)]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation/domain_separation) [[Pytorch]](https://github.com/fungtion/DSN)
+- **Sener's**: Learning Transferrable Representations for Unsupervised Domain Adaptation [[NIPS2016]](http://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
+- **RTN**: Unsupervised Domain Adaptation with Residual Transfer Networks [[NIPS2016]](https://papers.nips.cc/paper/6110-unsupervised-domain-adaptation-with-residual-transfer-networks.pdf)
 - **DRCN**: Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation [[ECCV2016]](https://arxiv.org/abs/1607.03516) [[Tensorflow 1.0.1(Official)]](https://github.com/ghif/drcn) [[Pytorch]](https://github.com/fungtion/DRCN)
 
 
