@@ -48,7 +48,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **Sener's**: Learning Transferrable Representations for Unsupervised Domain Adaptation [[NIPS2016]](http://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
 - **RTN**: Unsupervised Domain Adaptation with Residual Transfer Networks [[NIPS2016]](https://papers.nips.cc/paper/6110-unsupervised-domain-adaptation-with-residual-transfer-networks.pdf)
 - **DRCN**: Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation [[ECCV2016]](https://arxiv.org/abs/1607.03516) [[Tensorflow 1.0.1(Official)]](https://github.com/ghif/drcn) [[Pytorch]](https://github.com/fungtion/DRCN)
-- Deep CORAL: Deep CORAL: Correlation Alignment for Deep Domain Adaptation [[ECCV2016]](https://arxiv.org/pdf/1607.01719.pdf) [[C(Official)]](https://github.com/VisionLearningGroup/CORAL) [[Pytorch 0.2]](https://github.com/SSARCandy/DeepCORAL)
+- **Deep CORAL**: Deep CORAL: Correlation Alignment for Deep Domain Adaptation [[ECCV2016]](https://arxiv.org/pdf/1607.01719.pdf) [[C(Official)]](https://github.com/VisionLearningGroup/CORAL) [[Pytorch 0.2]](https://github.com/SSARCandy/DeepCORAL)
 
 
 # Journal Papers
