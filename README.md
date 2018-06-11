@@ -3,7 +3,9 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **FAN**: Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/pdf/1806.01376.pdf)
 - **DeppJDOT**: DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [[arXiv 27 Mar 2018]](https://arxiv.org/pdf/1803.10081.pdf)
+- **DiDA**: DiDA:DisentangledSynthesisforDomainAdaptation [[arXiv 21 Mar 2018]](https://arxiv.org/pdf/1805.08019.pdf)
 - **Saito's**: Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427) [[TensorFlow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
 - **ARTNs**: Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
 - **CMD**: Robust unsupervised domain adaptation for neural networks via moment alignment [[arXiv 28 Mar 2018]](https://arxiv.org/pdf/1711.06114.pdf) [[Keras(Official)]](https://github.com/wzell/mann)
@@ -43,7 +45,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **WDAN**: Mind the Class Weight Bias: Weighted Maximum Mean Discrepancy for Unsupervised Domain Adaptation [[CVPR2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yan_Mind_the_Class_CVPR_2017_paper.pdf) [[Caffe(Official)]](https://github.com/yhldhit/WMMD-Caffe)
 - **JAN**: Deep Transfer Learning with Joint Adaptation Networks [[ICML2017]](proceedings.mlr.press/v70/long17a/long17a.pdf) [[Pytorch 0.2.0_3(Official)]](https://github.com/thuml/Xlearn)
 - **ATDA**: Asymmetric Tri-training for Unsupervised Domain Adaptation [[ICML2017]](proceedings.mlr.press/v70/saito17a/saito17a.pdf) [[Tensorflow(Official)]](https://github.com/ksaito-ut/atda) [[Tensorflow]](https://github.com/vtddggg/ATDA) [[Pytorch]](https://github.com/corenel/pytorch-atda)
-- **AdaBN**: Revisiting Batch Normalization For Practical Domain Adaptation [[ICLR2017]](https://openreview.net/pdf?id=BJuysoFeg)
+- **AdaBN**: Revisiting Batch Normalization For Practical Domain Adaptation [[ICLR2017]](https://openreview.net/pdf?id=BJuysoFeg) [[PR2018]](http://winsty.net/papers/adabn.pdf)
 - **DSN**: Domain Separation Networks [[NIPS2016]](http://papers.nips.cc/paper/6254-domain-separation-networks) [[Tensorflow(Official)]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation/domain_separation) [[Pytorch]](https://github.com/fungtion/DSN)
 - **Sener's**: Learning Transferrable Representations for Unsupervised Domain Adaptation [[NIPS2016]](http://papers.nips.cc/paper/6360-learning-transferrable-representations-for-unsupervised-domain-adaptation)
 - **RTN**: Unsupervised Domain Adaptation with Residual Transfer Networks [[NIPS2016]](https://papers.nips.cc/paper/6110-unsupervised-domain-adaptation-with-residual-transfer-networks.pdf)
