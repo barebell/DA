@@ -3,6 +3,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **M-ADDA**: M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/pdf/1807.02552.pdf) [[Pytorch]](https://github.com/IssamLaradji/M-ADDA)
 - **FAN**: Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/pdf/1806.01376.pdf)
 - **DeppJDOT**: DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[arXiv 27 Mar 2018]](https://arxiv.org/pdf/1803.10081.pdf)
 - **DiDA**: DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 Mar 2018]](https://arxiv.org/pdf/1805.08019.pdf)
