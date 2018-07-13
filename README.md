@@ -3,6 +3,8 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **CyCADA**: Cycle Consistent Adversarial Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) [[Pytorch(Official)]](https://github.com/jhoffman/cycada_release)
+- **MSTN**: Learning Semantic Representations for Unsupervised Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) [[Tensorflow(Official)]](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)
 - **M-ADDA**: M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/pdf/1807.02552.pdf) [[Pytorch(Official)]](https://github.com/IssamLaradji/M-ADDA)
 - **FAN**: Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/pdf/1806.01376.pdf)
 - **DeppJDOT**: DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[arXiv 27 Mar 2018]](https://arxiv.org/pdf/1803.10081.pdf)
@@ -56,6 +58,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Journal Papers
 
+- **GsDsDL**: Learning Domain-shared Group-sparse Representation for Unsupervised Domain Adaptation [[PR2018]](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S0031320318301614/1-s2.0-S0031320318301614-main.pdf)
 - **LDADA**: An Embarrassingly Simple Approach to Visual Domain Adaptation [[TIP2018]](https://ieeexplore.ieee.org/document/8325317/) [[Matlab(Official)]](https://github.com/poppinace/ldada)
 - **DICD**: Domain Invariant and Class Discriminative Feature Learning for Visual Domain Adaptation [[TIP2018]](https://ieeexplore.ieee.org/document/8362753/)
 - **HDANA**: Heterogeneous Domain Adaptation Network Based on Autoencoder [[JPDC2018]](https://www.sciencedirect.com/science/article/pii/S0743731517301922)
