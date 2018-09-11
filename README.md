@@ -70,7 +70,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **HDANA**: Heterogeneous Domain Adaptation Network Based on Autoencoder [[JPDC2018]](https://www.sciencedirect.com/science/article/pii/S0743731517301922)
 - **DKTL**: Domain Class Consistency Based Transfer Learning For Image Classiﬁcation Across Domains [[InforSci2017]](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S0020025516313159/1-s2.0-S0020025516313159-main.pdf)
 - **Ding's**: Deep Domain Generalization With Structured Low-Rank Constraint [[TIP2017]](ieeexplore.ieee.org/iel7/83/4358840/08053784.pdf)
-- **Venkateswaras survey**: Deep-Learning Systems for Domain Adaptation in Computer Vision: Learning Transferable Feature Representations [[SP Magazine]](https://ieeexplore.ieee.org/document/8103149/)
+- **Venkateswara's survey**: Deep-Learning Systems for Domain Adaptation in Computer Vision: Learning Transferable Feature Representations [[SP Magazine]](https://ieeexplore.ieee.org/document/8103149/)
 - **BSWDA**: Beyond Sharing Weights for Deep Domain Adaptation [[TPAMI2016]](https://www.computer.org/csdl/trans/tp/preprint/08310033.pdf)
 - **SCA**: Scatter Component Analysis: A Uniﬁed Framework for Domain Adaptation and Domain Generalization [[TPAMI2016]](https://www.computer.org/csdl/trans/tp/2017/07/07542175.pdf)
 - **DME**: Distribution-Matching Embedding for Visual Domain Adaptation [[JMLR2016]](www.jmlr.org/papers/volume17/15-207/15-207.pdf)
