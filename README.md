@@ -3,6 +3,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **JDDA**：Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation[[arXiv 3 Nov 2018]](https://arxiv.org/pdf/1808.09347.pdf)
 - **PADA**: Partial Adversarial Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.html) [[Pytorch(Official)]](https://github.com/thuml/PADA)
 - **GAKT**: Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.html)
 - **Kang's**: Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.html)
@@ -75,11 +76,17 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # arXiv Papers
 
+- 
+- **GDAN**: Causal Generative Domain Adaptation Networks[[arXiv 28 Jun 2018]](https://arxiv.org/pdf/1804.04333.pdf)
 - **M-ADDA**: M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/pdf/1807.02552.pdf) [[Pytorch(Official)]](https://github.com/IssamLaradji/M-ADDA)
 - **FAN**: Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/pdf/1806.01376.pdf)
 - **DiDA**: DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 Mar 2018]](https://arxiv.org/pdf/1805.08019.pdf)
 - **ARTNs**: Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
 - **CMD**: Robust Unsupervised Domain Adaptation for Neural Networks via Moment Alignment [[arXiv 28 Mar 2018]](https://arxiv.org/pdf/1711.06114.pdf) [[Keras(Official)]](https://github.com/wzell/mann)
+- **CDAAE**: Cross-Domain Adversarial Auto-Encoder[[arXiv 17 Apr 2018]](https://arxiv.org/pdf/1804.06078.pdf)
+- **CPUA**: Simple Domain Adaptation with Class Prediction Uncertainty Alignment[[arXiv 12 Apr 2018]](https://arxiv.org/pdf/1804.04448.pdf)
+- **Tran's**: Joint Pixel and Feature-level Domain Adaptation in the Wild[[arXiv 28 Feb 2018]](https://arxiv.org/pdf/1803.00068.pdf)
+- **InvAuto**: Invertible Autoencoder for domain adaptation[[arXiv 10 Feb 2018]](https://arxiv.org/pdf/1802.06869.pdf)
 
 # Other Resources
 
