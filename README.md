@@ -9,13 +9,8 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **MEDA**: Visual Domain Adaptation with Manifold Embedded Distribution Alignment [[ACM MM2018]](https://arxiv.org/abs/1807.07258) [[Matlab(Official)]](https://github.com/jindongwang/transferlearning/tree/master/code/traditional/MEDA#meda-manifold-embedded-distribution-alignment)
 - **CyCADA**: Cycle Consistent Adversarial Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) [[Pytorch(Official)]](https://github.com/jhoffman/cycada_release)
 - **MSTN**: Learning Semantic Representations for Unsupervised Domain Adaptation [[ICML2018]](http://proceedings.mlr.press/v80/xie18c/xie18c.pdf) [[Tensorflow(Official)]](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)
-- **M-ADDA**: M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/pdf/1807.02552.pdf) [[Pytorch(Official)]](https://github.com/IssamLaradji/M-ADDA)
-- **FAN**: Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/pdf/1806.01376.pdf)
 - **DeppJDOT**: DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[arXiv 27 Mar 2018]](https://arxiv.org/pdf/1803.10081.pdf) [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.html)
-- **DiDA**: DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 Mar 2018]](https://arxiv.org/pdf/1805.08019.pdf) [[Pytorch(Official)]](https://github.com/yangyanli/DiDA)
 - **Saito's**: Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427)  [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.html) [[TensorFlow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
-- **ARTNs**: Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
-- **CMD**: Robust Unsupervised Domain Adaptation for Neural Networks via Moment Alignment [[arXiv 28 Mar 2018]](https://arxiv.org/pdf/1711.06114.pdf) [[Keras(Official)]](https://github.com/wzell/mann)
 - **CPUA**: Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[ICML2018 Poster]](https://arxiv.org/abs/1804.04448)
 - **PDA**: Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
 - **MCD_DA**: Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.02560) [[Pytorch(Official)]](https://github.com/mil-tokyo/MCD_DA)
@@ -62,7 +57,6 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Journal Papers
 
-- **DAN**: Transferable Representation Learning with Deep Adaptation Networks [[TPAMI2018]](https://ieeexplore.ieee.org/document/8454781/)
 - **Wang's survey**: Deep visual domain adaptation: A survey [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1802.03601) [[NeuroCompu]](https://www.sciencedirect.com/science/article/pii/S0925231218306684/pdfft?md5=011fcc27c88a40c9e7c88918ba8cc1b2&pid=1-s2.0-S0925231218306684-main.pdf)
 - **GsDsDL**: Learning Domain-shared Group-sparse Representation for Unsupervised Domain Adaptation [[PR2018]](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S0031320318301614/1-s2.0-S0031320318301614-main.pdf)
 - **AdaBN**: Revisiting Batch Normalization For Practical Domain Adaptation [[ICLR2017]](https://openreview.net/pdf?id=BJuysoFeg) [[PR2018]](http://winsty.net/papers/adabn.pdf)
@@ -78,6 +72,14 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **DANN**: Domain-Adversarial Training of Neural Networks [[JMLR2016]](http://www.jmlr.org/papers/volume17/15-239/15-239.pdf) [[Tensorflow(Official)]](https://github.com/pumpikano/tf-dann) [[Pytorch]](https://github.com/fungtion/DANN) [[Pytorch]](https://github.com/GRAAL-Research/domain_adversarial_neural_network)
 - **LSCDA**: Unsupervised Domain Adaptation With Label and Structural Consistency [[TIP2016]](https://ieeexplore.ieee.org/iel7/83/7581012/07569007.pdf)
 - **FLDA**: Feature-Level Domain Adaptation [[JMLR2016]](http://www.jmlr.org/papers/volume17/15-206/15-206.pdf) [[Matlab(Official)]](https://github.com/wmkouw/flda) [[Python(Official)]](https://github.com/wmkouw/libTLDA)
+
+# arXiv Papers
+
+- **M-ADDA**: M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/pdf/1807.02552.pdf) [[Pytorch(Official)]](https://github.com/IssamLaradji/M-ADDA)
+- **FAN**: Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/pdf/1806.01376.pdf)
+- **DiDA**: DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 Mar 2018]](https://arxiv.org/pdf/1805.08019.pdf)
+- **ARTNs**: Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
+- **CMD**: Robust Unsupervised Domain Adaptation for Neural Networks via Moment Alignment [[arXiv 28 Mar 2018]](https://arxiv.org/pdf/1711.06114.pdf) [[Keras(Official)]](https://github.com/wzell/mann)
 
 # Other Resources
 
