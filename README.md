@@ -3,7 +3,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
-- **Dhouib's**: Revisiting ($\epsilon, $\gamma, $\tau)-similarity learning for domain adaptation[[NeurIPS2018]](http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation.pdf)
+- **Dhouib's**: Revisiting $(\epsilon, \gamma, \tau)$-similarity learning for domain adaptation[[NeurIPS2018]](http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation.pdf)
 - **CDAN**: Conditional Adversarial Domain Adaptation[[NeurIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation.pdf)
 - **Magliacane's**: Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions[[NeurIPS2018]](http://papers.nips.cc/paper/8282-domain-adaptation-by-using-causal-inference-to-predict-invariant-conditional-distributions.pdf)
 - **Co-DA**: Co-regularized Alignment for Unsupervised Domain Adaptation[[NeurIPS2018]](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf)
