@@ -3,11 +3,11 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
-- **Dhouib's**: Revisiting ($\epsilon$, $\gamma$, $\tau$)-similarity learning for domain adaptation[[NeurIPS2018]](http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation.pdf)
-- **CDAN**: Conditional Adversarial Domain Adaptation[[NeurIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation.pdf)
-- **Magliacane's**: Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions[[NeurIPS2018]](http://papers.nips.cc/paper/8282-domain-adaptation-by-using-causal-inference-to-predict-invariant-conditional-distributions.pdf)
-- **Co-DA**: Co-regularized Alignment for Unsupervised Domain Adaptation[[NeurIPS2018]](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf)
-- **JDDA**：Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation[[arXiv 3 Nov 2018]](https://arxiv.org/pdf/1808.09347.pdf)
+- **Dhouib's**: Revisiting ($\epsilon$, $\gamma$, $\tau$)-similarity learning for domain adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation.pdf)
+- **CDAN**: Conditional Adversarial Domain Adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation.pdf)
+- **Magliacane's**: Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions [[NeurIPS2018]](http://papers.nips.cc/paper/8282-domain-adaptation-by-using-causal-inference-to-predict-invariant-conditional-distributions.pdf)
+- **Co-DA**: Co-regularized Alignment for Unsupervised Domain Adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/8146-co-regularized-alignment-for-unsupervised-domain-adaptation.pdf)
+- **JDDA**：Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation [[arXiv 3 Nov 2018]](https://arxiv.org/pdf/1808.09347.pdf)
 - **PADA**: Partial Adversarial Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.html) [[Pytorch(Official)]](https://github.com/thuml/PADA)
 - **GAKT**: Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.html)
 - **Kang's**: Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.html)
@@ -17,6 +17,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **DeppJDOT**: DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [[arXiv 27 Mar 2018]](https://arxiv.org/pdf/1803.10081.pdf) [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.html)
 - **Saito's**: Open Set Domain Adaptation by Backpropagation [[arXiv 27 Apr 2018]](https://arxiv.org/abs/1804.10427)  [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/html/Kuniaki_Saito_Adversarial_Open_Set_ECCV_2018_paper.html) [[TensorFlow]](https://github.com/Mid-Push/Open_set_domain_adaptation) [[Pytorch]](https://github.com/YU1ut/openset-DA)
 - **CPUA**: Simple Domain Adaptation with Class Prediction Uncertainty Alignment [[ICML2018 Poster]](https://arxiv.org/abs/1804.04448)
+- **I2IAdapt**: Image to Image Translation for Domain Adaptation [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf)
 - **PDA**: Importance Weighted Adversarial Nets for Partial Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1803.09210)
 - **MCD_DA**: Maximum Classifier Discrepancy for Unsupervised Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1712.02560) [[Pytorch(Official)]](https://github.com/mil-tokyo/MCD_DA)
 - **RPTDA**: Residual Parameter Transfer for Deep Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1711.07714)
