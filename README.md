@@ -3,6 +3,8 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **CLAN**: Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1809.09478.pdf)
+- **SWD**: Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1903.04064.pdf)
 - **Dhouib's**: Revisiting ($\epsilon$, $\gamma$, $\tau$)-similarity learning for domain adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation.pdf)
 - **CDAN**: Conditional Adversarial Domain Adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation.pdf)
 - **Magliacane's**: Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions [[NeurIPS2018]](http://papers.nips.cc/paper/8282-domain-adaptation-by-using-causal-inference-to-predict-invariant-conditional-distributions.pdf)
@@ -82,8 +84,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # arXiv Papers
 
-- **SWD**: Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation[[Accepted CVPR2019]](https://arxiv.org/pdf/1903.04064.pdf)
-- **GDAN**: Causal Generative Domain Adaptation Networks[[arXiv 28 Jun 2018]](https://arxiv.org/pdf/1804.04333.pdf)
+- **GDAN**: Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/pdf/1804.04333.pdf)
 - **M-ADDA**: M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/pdf/1807.02552.pdf) [[Pytorch(Official)]](https://github.com/IssamLaradji/M-ADDA)
 - **FAN**: Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/pdf/1806.01376.pdf)
 - **DiDA**: DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 Mar 2018]](https://arxiv.org/pdf/1805.08019.pdf)
