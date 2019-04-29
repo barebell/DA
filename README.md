@@ -87,6 +87,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 - **UAN**: Universal Domain Adaptation [[CVPR2019?]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/universal-domain-adaptation-cvpr19.pdf)
 - **IDDA**: Looking back at Labels: A Class based Domain Adaptation Technique [[IJCNN Poster]](https://arxiv.org/pdf/1904.01341.pdf) [[Project(Official)]](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/)
+- **IAFN**: Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach[[arXiv 19 Nov]](https://arxiv.org/abs/1811.07456v1) [[Pytorch(Official)]](https://github.com/jihanyang/AFN)
 - **GDAN**: Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/pdf/1804.04333.pdf)
 - **M-ADDA**: M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/pdf/1807.02552.pdf) [[Pytorch(Official)]](https://github.com/IssamLaradji/M-ADDA)
 - **DiDA**: DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 Mar 2018]](https://arxiv.org/pdf/1805.08019.pdf) [[Pytorch(Official)]](https://github.com/yangyanli/DiDA)
