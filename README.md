@@ -3,6 +3,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **SymNets**: Domain-Symmetric Networks for Adversarial Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1904.04663v1.pdf)[[Pytorch(Official)]](https://github.com/YBZh/SymNets)
 - **CLAN**: Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1809.09478.pdf)
 - **SWD**: Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1903.04064.pdf)
 - **Dhouib's**: Revisiting ($\epsilon$, $\gamma$, $\tau$)-similarity learning for domain adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation.pdf)
