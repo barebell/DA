@@ -67,6 +67,7 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Journal Papers
 
+--**GDM**: Adaptation Based on Generalized Discrepancy [[JMLR2019 Submmitted2015]](http://www.jmlr.org/papers/v20/15-192.html)
 - **Wang's survey**: Deep visual domain adaptation: A survey [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1802.03601) [[NeuroCompu]](https://www.sciencedirect.com/science/article/pii/S0925231218306684/pdfft?md5=011fcc27c88a40c9e7c88918ba8cc1b2&pid=1-s2.0-S0925231218306684-main.pdf)
 - **GsDsDL**: Learning Domain-shared Group-sparse Representation for Unsupervised Domain Adaptation [[PR2018]](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S0031320318301614/1-s2.0-S0031320318301614-main.pdf)
 - **AdaBN**: Revisiting Batch Normalization For Practical Domain Adaptation [[ICLR2017]](https://openreview.net/pdf?id=BJuysoFeg) [[PR2018]](http://winsty.net/papers/adabn.pdf)
