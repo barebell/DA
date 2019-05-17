@@ -4,6 +4,7 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 
 # Conference Papers
 
+- **IDDA**: Looking back at Labels: A Class based Domain Adaptation Technique [[IJCNN2019(Oral)]](https://arxiv.org/pdf/1904.01341.pdf) [[Project(Official)]](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/)[[Code]](https://github.com/vinodkkurmi/DiscriminatorDomainAdaptation)
 - **Zhao's**: On Learning Invariant Representation for Domain Adaptation [[ICML2019]](https://arxiv.org/pdf/1901.09453.pdf)
 - **Wu's**: Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment [[ICML2019]](https://arxiv.org/pdf/1903.01689.pdf)
 - **MDD**: Bridging Theory and Algorithm for Domain Adaptation [[ICML2019]](https://arxiv.org/pdf/1904.05801.pdf)
