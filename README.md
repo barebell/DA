@@ -3,6 +3,9 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **Chen's**: Learning Semantic Segmentation From Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach [[CVPR2019]](https://arxiv.org/pdf/1812.05040.pdf)
+- **DISE**: All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[CVPR2019]](https://arxiv.org/pdf/1903.12212v1.pdf) [[Pytorch(Official)]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
+- **DSBN**: Domain-Specific Batch Normalization for Unsupervised Domain Adaptation [[CVPR2019]](http://cvlab.postech.ac.kr/lab/papers/CVPR19_domain_adap.pdf)
 - **DWT**: Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss [[CVPR2019]](https://arxiv.org/pdf/1903.03215.pdf)
 - **Li's**: Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[CVPR2019]](https://arxiv.org/pdf/1904.10620.pdf) [[Pytorch(Official)]](https://github.com/liyunsheng13/BDL)
 - **CAN**: Contrastive Adaptation Network for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1901.00976.pdf)
@@ -107,7 +110,6 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 # Paper Placeholder
 
 - GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019]
-- Domain-Specific Batch Normalization for Unsupervised Domain Adaptation [CVPR2019]
 - d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral]
 
 # Other Resources
