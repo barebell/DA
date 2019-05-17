@@ -104,6 +104,12 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 - **CMD**: Robust Unsupervised Domain Adaptation for Neural Networks via Moment Alignment [[arXiv 28 Mar 2018]](https://arxiv.org/pdf/1711.06114.pdf) [[Keras(Official)]](https://github.com/wzell/mann)
 - **CDAAE**: Cross-Domain Adversarial Auto-Encoder[[arXiv 17 Apr 2018]](https://arxiv.org/pdf/1804.06078.pdf) [[Tensorflow(Official)]](https://github.com/luckycallor/CDAAE)
 
+# Paper Placeholder
+
+GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019]
+Domain-Specific Batch Normalization for Unsupervised Domain Adaptation [CVPR2019]
+d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral]
+
 # Other Resources
 
 - [transferlearning](https://github.com/jindongwang/transferlearning)
