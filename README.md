@@ -3,8 +3,18 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **DWT**: Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss [[CVPR2019]](https://arxiv.org/pdf/1903.03215.pdf)
+- **Li's**: Bidirectional Learning for Domain Adaptation of Semantic Segmentation [[CVPR2019]](https://arxiv.org/pdf/1904.10620.pdf) [[Pytorch(Official)]](https://github.com/liyunsheng13/BDL)
+- **CAN**: Contrastive Adaptation Network for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1901.00976.pdf)
+- **GPDA**: Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach [[CVPR2019 Oral]](https://arxiv.org/pdf/1902.08727.pdf)
+- **Tran's**: Joint Pixel and Feature-level Domain Adaptation in the Wild [[CVPR2019]](https://arxiv.org/pdf/1803.00068.pdf)
+- **UAN**: Universal Domain Adaptation [[CVPR2019]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/universal-domain-adaptation-cvpr19.pdf)
+- **ADVENT**: ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation [[CVPR2019 Oral]](https://arxiv.org/pdf/1811.12833.pdf) [[Code(Empty)]](https://github.com/valeoai/ADVENT)
+- **AMEAN**: Blending-Target Domain Adaptation by Adversarial Meta-Adaptation Networks [[CVPR2019 Oral]](http://www.linliang.net/wp-content/uploads/2019/04/CVPR2019_BTDA.pdf) [[Pytorch(Official)]](https://github.com/zjy526223908/BTDA)
+- **TPN**: Transferrable Prototypical Networks for Unsupervised Domain Adaptation [[CVPR2019 Oral]](https://arxiv.org/pdf/1904.11227.pdf)
+- **PFAN**: Progressive Feature Alignment for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1811.08585.pdf)
 - **SymNets**: Domain-Symmetric Networks for Adversarial Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1904.04663v1.pdf)[[Pytorch(Official)]](https://github.com/YBZh/SymNets)
-- **CLAN**: Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1809.09478.pdf)
+- **CLAN**: Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation [[CVPR2019 Oral]](https://arxiv.org/pdf/1809.09478.pdf) [[Code(Empty)]](https://github.com/RoyalVane/CLAN)
 - **SWD**: Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation [[CVPR2019]](https://arxiv.org/pdf/1903.04064.pdf)
 - **Dhouib's**: Revisiting ($\epsilon$, $\gamma$, $\tau$)-similarity learning for domain adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/7969-revisiting-epsilon-gamma-tau-similarity-learning-for-domain-adaptation.pdf)
 - **CDAN**: Conditional Adversarial Domain Adaptation [[NeurIPS2018]](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation.pdf)
@@ -86,7 +96,6 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # arXiv Papers
 
-- **UAN**: Universal Domain Adaptation [[CVPR2019?]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/universal-domain-adaptation-cvpr19.pdf)
 - **IDDA**: Looking back at Labels: A Class based Domain Adaptation Technique [[IJCNN Poster]](https://arxiv.org/pdf/1904.01341.pdf) [[Project(Official)]](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/)
 - **IAFN**: Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach[[arXiv 19 Nov]](https://arxiv.org/abs/1811.07456v1) [[Pytorch(Official)]](https://github.com/jihanyang/AFN)
 - **GDAN**: Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/pdf/1804.04333.pdf)
