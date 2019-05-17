@@ -106,9 +106,9 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Paper Placeholder
 
-GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019]
-Domain-Specific Batch Normalization for Unsupervised Domain Adaptation [CVPR2019]
-d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral]
+- GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019]
+- Domain-Specific Batch Normalization for Unsupervised Domain Adaptation [CVPR2019]
+- d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral]
 
 # Other Resources
 
