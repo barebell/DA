@@ -1,5 +1,6 @@
-# Domain Adaptation
-Detailed resources on unsupervised domain adapation(DA). It includes related papers and the codes. As you see, the list is also not comprehensive. You can pull requests as you will.
+# Unsupervised Domain Adaptation
+
+The resources only focus on unsupervised domain adapation(UDA) and these include related papers and the codes from top conferences and journals. You are welcome to pull any requests as you will. I'll sort out the content soon.
 
 # Conference Papers
 
