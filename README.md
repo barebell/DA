@@ -3,6 +3,9 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 # Conference Papers
 
+- **Zhao's**: On Learning Invariant Representation for Domain Adaptation [[ICML2019]](https://arxiv.org/pdf/1901.09453.pdf)
+- **Wu's**: Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment [[ICML2019]](https://arxiv.org/pdf/1903.01689.pdf)
+- **MDD**: Bridging Theory and Algorithm for Domain Adaptation [[ICML2019]](https://arxiv.org/pdf/1904.05801.pdf)
 - **Chen's**: Learning Semantic Segmentation From Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach [[CVPR2019]](https://arxiv.org/pdf/1812.05040.pdf)
 - **DISE**: All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation [[CVPR2019]](https://arxiv.org/pdf/1903.12212v1.pdf) [[Pytorch(Official)]](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)
 - **DSBN**: Domain-Specific Batch Normalization for Unsupervised Domain Adaptation [[CVPR2019]](http://cvlab.postech.ac.kr/lab/papers/CVPR19_domain_adap.pdf)
@@ -111,6 +114,8 @@ Detailed resources on unsupervised domain adapation(DA). It includes related pap
 
 - GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019]
 - d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral]
+- Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [ICML2019] [[Code(Empty)]](https://github.com/thuml/Deep-Embedded-Validation)
+- Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation [ICML2019]
 
 # Other Resources
 
