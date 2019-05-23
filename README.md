@@ -5,9 +5,19 @@
 
 The resources only focus on unsupervised domain adapation(UDA) and these include related papers and the codes from top conferences and journals. You are welcome to pull any requests as you will. I'll sort out the content soon.
 
+- [Unsupervised Domain Adaptation](#unsupervised-domain-adaptation)
+  - [Conference Papers](#conference-papers)
+    - [2019 Conference Papers](#2019-conference-papers)
+    - [2018 Conference Papers](#2018-conference-papers)
+    - [Conference Papers befor 2018](#conference-papers-befor-2018)
+  - [Journal Papers](#journal-papers)
+  - [arXiv Papers](#arxiv-papers)
+  - [Paper Placeholder](#paper-placeholder)
+  - [Other Resources](#other-resources)
+
 ## Conference Papers
 
-### 2019 Top Conference Papers
+### 2019 Conference Papers
 | Abbreviation | Paper Title                                                                                                 | Source Link                                                                                   | Code                                                                                          | Tags   |
 | ------------ | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------ |
 | **Zhao's**   | On Learning Invariant Representation for Domain Adaptation                                                  | [ICML2019](https://arxiv.org/pdf/1901.09453.pdf)                                              |                                                                                               | Theory |
@@ -29,7 +39,7 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 | **SymNets**  | Domain-Symmetric Networks for Adversarial Domain Adaptation                                                 | [CVPR2019](https://arxiv.org/pdf/1904.04663v1.pdf)                                            | [Pytorch(Official)](https://github.com/YBZh/SymNets)                                          |        |
 | **CLAN**     | Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation | [CVPR2019 Oral](https://arxiv.org/pdf/1809.09478.pdf)                                         | [Code(Empty)](https://github.com/RoyalVane/CLAN)                                              |        |
 | **SWD**      | Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation                                           | [CVPR2019](https://arxiv.org/pdf/1903.04064.pdf)                                              |                                                                                               |        |
-### 2018 Top Conference Papers
+### 2018 Conference Papers
 
 | Abbreviation     | Paper Title                                                                                                             | Source Link                                                                                                                                                                          | Code                                                                                                                                                | Tags |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
@@ -66,7 +76,7 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 | **CCN**          | Learning to Cluster in Order to Transfer Across Domains and Tasks                                                       | [ICLR2018](https://openreview.net/pdf?id=ByRWCqvT-)                                                                                                                                  |                                                                                                                                                     |      |
 | **MECA**         | Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation                                           | [ICLR2018](https://openreview.net/forum?id=rJWechg0Z)                                                                                                                                | [Tensorflow(Official)](https://github.com/pmorerio/minimal-entropy-correlation-alignment)                                                           |      |
 
-### Top Conference Papers befor 2018
+### Conference Papers befor 2018
 
 | Abbreviation           | Paper Title                                                                                      | Source Link                                                                                                                          | Code                                                                                                                                                                                  | Tags |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
@@ -96,7 +106,7 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 | **Deep CORAL**         | Deep CORAL: Correlation Alignment for Deep Domain Adaptation                                     | [ECCV2016](https://arxiv.org/pdf/1607.01719.pdf)                                                                                     | [C(Official)](https://github.com/VisionLearningGroup/CORAL) [Pytorch 0.2](https://github.com/SSARCandy/DeepCORAL)                                                                     |      |
 | **RevGrad**            | Unsupervised Domain Adaptation by Backpropagation                                                | [ICML2015](http://proceedings.mlr.press/v37/ganin15.pdf)                                                                             | [Caffe(Official)](https://github.com/ddtm/caffe/tree/grl) [Tensorflow](https://github.com/shucunt/domain_adaptation) [Pytorch](https://github.com/jvanvugt/pytorch-domain-adaptation) |      |
 
-## Top Journal Papers
+## Journal Papers
 
 | Abbreviation              | Paper Title                                                                                                   | Source Link                                                                                                                                                                                                    | Code                                                                                                                                                                                    | Tags |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
