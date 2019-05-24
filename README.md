@@ -131,15 +131,16 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 
 ## arXiv Papers
 
-| Abbreviation | Paper Title                                                                    | Source Link                                               | Code                                                                              | Tags |
-| ------------ | ------------------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------------- | ---- |
-| **IDDA**     | Looking back at Labels: A Class based Domain Adaptation Technique              | [IJCNN Poster](https://arxiv.org/pdf/1904.01341.pdf)      | [Project(Official)](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/) |      |
-| **IAFN**     | Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach              | [arXiv 19 Nov](https://arxiv.org/abs/1811.07456v1)        | [Pytorch(Official)](https://github.com/jihanyang/AFN)                             |      |
-| **GDAN**     | Causal Generative Domain Adaptation Networks                                   | [arXiv 28 Jun 2018](https://arxiv.org/pdf/1804.04333.pdf) |                                                                                   |      |
-| **M-ADDA**   | M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning               | [arXiv 6 Jul 2018](https://arxiv.org/pdf/1807.02552.pdf)  | [Pytorch(Official)](https://github.com/IssamLaradji/M-ADDA)                       |      |
-| **DiDA**     | DiDA: Disentangled Synthesis for Domain Adaptation                             | [arXiv 21 Mar 2018](https://arxiv.org/pdf/1805.08019.pdf) | [Pytorch(Official)](https://github.com/yangyanli/DiDA)                            |      |
-| **CMD**      | Robust Unsupervised Domain Adaptation for Neural Networks via Moment Alignment | [arXiv 28 Mar 2018](https://arxiv.org/pdf/1711.06114.pdf) | [Keras(Official)](https://github.com/wzell/mann)                                  |      |
-| **CDAAE**    | Cross-Domain Adversarial Auto-Encoder                                          | [arXiv 17 Apr 2018](https://arxiv.org/pdf/1804.06078.pdf) | [Tensorflow(Official)](https://github.com/luckycallor/CDAAE)                      |      |
+| Abbreviation | Paper Title                                                                    | Source Link                                               | Code                                                                              | Tags               |
+| ------------ | ------------------------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------ |
+| **Le's**     | Theoretical Perspective of Deep Domain Adaptation                              | [arXiv 15 Nov 2018](https://arxiv.org/pdf/1811.06199.pdf) |                                                                                   | Wasserstein Metric |
+| **IDDA**     | Looking back at Labels: A Class based Domain Adaptation Technique              | [IJCNN Poster](https://arxiv.org/pdf/1904.01341.pdf)      | [Project(Official)](https://vinodkkurmi.github.io/DiscriminatorDomainAdaptation/) |                    |
+| **IAFN**     | Unsupervised Domain Adaptation: An Adaptive Feature Norm Approach              | [arXiv 19 Nov](https://arxiv.org/abs/1811.07456v1)        | [Pytorch(Official)](https://github.com/jihanyang/AFN)                             |                    |
+| **GDAN**     | Causal Generative Domain Adaptation Networks                                   | [arXiv 28 Jun 2018](https://arxiv.org/pdf/1804.04333.pdf) |                                                                                   |                    |
+| **M-ADDA**   | M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning               | [arXiv 6 Jul 2018](https://arxiv.org/pdf/1807.02552.pdf)  | [Pytorch(Official)](https://github.com/IssamLaradji/M-ADDA)                       |                    |
+| **DiDA**     | DiDA: Disentangled Synthesis for Domain Adaptation                             | [arXiv 21 Mar 2018](https://arxiv.org/pdf/1805.08019.pdf) | [Pytorch(Official)](https://github.com/yangyanli/DiDA)                            |                    |
+| **CMD**      | Robust Unsupervised Domain Adaptation for Neural Networks via Moment Alignment | [arXiv 28 Mar 2018](https://arxiv.org/pdf/1711.06114.pdf) | [Keras(Official)](https://github.com/wzell/mann)                                  |                    |
+| **CDAAE**    | Cross-Domain Adversarial Auto-Encoder                                          | [arXiv 17 Apr 2018](https://arxiv.org/pdf/1804.06078.pdf) | [Tensorflow(Official)](https://github.com/luckycallor/CDAAE)                      |                    |
 
 ## Paper Placeholder
 
