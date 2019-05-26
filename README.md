@@ -20,6 +20,8 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 ### 2019 Conference Papers
 | Abbreviation | Paper Title                                                                                                 | Source Link                                                                                   | Code                                                                                          | Tags                                                             |
 | ------------ | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **BSP**      | Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation         | [ICML2019](http://proceedings.mlr.press/v97/chen19i.html)                                     |                                                                                               |                                                                  |
+| **DEV**      | Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation                                     | [ICML2019](http://proceedings.mlr.press/v97/you19a.html)                                      | [sklearn(Official)](https://github.com/thuml/Deep-Embedded-Validation)                        |                                                                  |
 | **Zhao's**   | On Learning Invariant Representation for Domain Adaptation                                                  | [ICML2019](https://arxiv.org/pdf/1901.09453.pdf)                                              |                                                                                               | `Theory` `Conditional-Shfit` `Information-Theoretic-Lower-Bound` |
 | **Wu's**     | Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment                                        | [ICML2019](https://arxiv.org/pdf/1903.01689.pdf)                                              |                                                                                               | `Theory` `Label-Shift` `Asymmetrically-Relaxed-Distances`        |
 | **MDD**      | Bridging Theory and Algorithm for Domain Adaptation                                                         | [ICML2019](https://arxiv.org/pdf/1904.05801.pdf)                                              |                                                                                               | `Theory` `Margin-Disparity-Discrepancy` `Rademacher-Complexity`  |
@@ -150,8 +152,6 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 
 - GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019]
 - d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral]
-- Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation [ICML2019] [[Code(Empty)]](https://github.com/thuml/Deep-Embedded-Validation)
-- Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation [ICML2019]
 
 ## Other Resources
 
