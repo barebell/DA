@@ -1,6 +1,6 @@
 # Unsupervised Domain Adaptation
 
-![](https://img.shields.io/github/license/barebell/DA.svg?style=flat-square)
+[![](https://img.shields.io/github/license/barebell/DA.svg?style=flat-square)](LICENSE)
 ![](https://img.shields.io/badge/last%20commit-may%202019-brightgreen.svg?style=flat-square)
 
 The resources only focus on unsupervised domain adapation(UDA) and these include related papers and the codes from top conferences and journals. You are welcome to pull any requests as you will. I'll sort out the content soon.
