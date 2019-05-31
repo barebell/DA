@@ -39,7 +39,6 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 | **TPN**      | Transferrable Prototypical Networks for Unsupervised Domain Adaptation                                      | [CVPR2019 Oral](https://arxiv.org/pdf/1904.11227.pdf)                                         |                                                                                               |                                                                                   |
 | **PFAN**     | Progressive Feature Alignment for Unsupervised Domain Adaptation                                            | [CVPR2019](https://arxiv.org/pdf/1811.08585.pdf)                                              |                                                                                               | `Intra-Class-Variation` `Adaptive-Prototype-Alignment` `Non-Saturated-Classifier` |
 | **SymNets**  | Domain-Symmetric Networks for Adversarial Domain Adaptation                                                 | [CVPR2019](https://arxiv.org/pdf/1904.04663v1.pdf)                                            | [Pytorch(Official)](https://github.com/YBZh/SymNets)                                          | `Symmetric-Classifiers` `Domain-Confusion` `Category-Level`                       |
-| scheme       |
 | **CLAN**     | Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation | [CVPR2019 Oral](https://arxiv.org/pdf/1809.09478.pdf)                                         | [Code(Empty)](https://github.com/RoyalVane/CLAN)                                              | `Category-Level` `Co-training`                                                    |
 | **SWD**      | Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation                                           | [CVPR2019](https://arxiv.org/pdf/1903.04064.pdf)                                              |                                                                                               | `Wasserstein-Discrepancy`                                                         |
 ### 2018 Conference Papers
@@ -155,8 +154,9 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 
 ## Paper Placeholder
 
-- GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019]
-- d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral]
+- Attending to Discriminative Certainty for Domain Adaptation [CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/html/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.html)
+- GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/html/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.html)
+- d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding [CVPR2019 Oral](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.html)
 
 ## Other Resources
 
