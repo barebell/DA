@@ -5,15 +5,15 @@
 
 The resources only focus on unsupervised domain adapation(UDA) and these include related papers and the codes from top conferences and journals. You are welcome to pull any requests as you will. I'll sort out the content soon.
 
-- [Unsupervised Domain Adaptation](#unsupervised-domain-adaptation)
-  - [Conference Papers](#conference-papers)
-    - [2019 Conference Papers](#2019-conference-papers)
-    - [2018 Conference Papers](#2018-conference-papers)
-    - [Conference Papers befor 2018](#conference-papers-befor-2018)
-  - [Journal Papers](#journal-papers)
-  - [arXiv Papers](#arxiv-papers)
-  - [Paper Placeholder](#paper-placeholder)
-  - [Other Resources](#other-resources)
+- [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
+  - [Conference Papers](#Conference-Papers)
+    - [2019 Conference Papers](#2019-Conference-Papers)
+    - [2018 Conference Papers](#2018-Conference-Papers)
+    - [Conference Papers befor 2018](#Conference-Papers-befor-2018)
+  - [Journal Papers](#Journal-Papers)
+  - [arXiv Papers](#arXiv-Papers)
+  - [Paper Placeholder](#Paper-Placeholder)
+  - [Other Resources](#Other-Resources)
 
 ## Conference Papers
 
@@ -27,6 +27,7 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 | **MDD**      | Bridging Theory and Algorithm for Domain Adaptation                                                         | [ICML2019](http://proceedings.mlr.press/v97/zhang19i.html)                                                                                                                                             | [Pytorch(Official)](https://github.com/thuml/MDD)                                                                                              | `Theory` `Margin-Disparity-Discrepancy` `Rademacher-Complexity`                   |
 | **CADA** | Attending to Discriminative Certainty for Domain Adaptation | [CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/html/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.html) [arXiv](https://arxiv.org/abs/1906.03502) | [Code(Empty)](https://github.com/DelTA-Lab-IITK/CADA) | `Region-Adaptation` `Bayesian-Framework` `Attention` |
 | **d-SNE**    | d-SNE: Domain Adaptation Using Stochastic Neighborhood Embedding                                            | [CVPR2019 Oral](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_d-SNE_Domain_Adaptation_Using_Stochastic_Neighborhood_Embedding_CVPR_2019_paper.html) [arXiv](https://arxiv.org/abs/1905.12775) |                                                                                               | `Hausdorff-Distance` `Domain-Generalization`                                      |
+| **GCAN** | GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation | [CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf) | | `Structureaware-Alignment` `Domain-Alignment` `Class-Centroid-Alignment` |
 | **GIO-Ada**   | Learning Semantic Segmentation From Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach | [CVPR2019](https://arxiv.org/pdf/1812.05040.pdf)                                                                                                                                                       |                                                                                               | `Geometric-Information` `Adversarial-Training` `Depth-and-Semantic-Prediction`                                                                                 |
 | **DISE**     | All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation      | [CVPR2019](https://arxiv.org/pdf/1903.12212v1.pdf)                                                                                                                                                     | [Pytorch(Official)](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction) | `Domain-Invariant-Structure` `Domain-Specific-Representations`                                                                                  |
 | **DSBN**     | Domain-Specific Batch Normalization for Unsupervised Domain Adaptation                                      | [CVPR2019](http://cvlab.postech.ac.kr/lab/papers/CVPR19_domain_adap.pdf)                                                                                                                               |                                                                                               | `Batch-Normalization` `Pseudo-Labels`                                             |
@@ -156,8 +157,6 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 | **CDAAE**         | Cross-Domain Adversarial Auto-Encoder                                          | [arXiv 17 Apr 2018](https://arxiv.org/pdf/1804.06078.pdf)                                                                                                                                                      | [Tensorflow(Official)](https://github.com/luckycallor/CDAAE)                      |                                                                      |
 
 ## Paper Placeholder
-
-- GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation [CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/html/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.html)
 
 ## Other Resources
 
