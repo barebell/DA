@@ -1,19 +1,19 @@
 # Unsupervised Domain Adaptation
 
 [![](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![](https://img.shields.io/badge/last%20commit-jun%202019-brightgreen.svg?style=flat-square)](https://github.com/barebell/DA/commits/master)
+[![](https://img.shields.io/badge/last%20commit-jan%202020-brightgreen.svg?style=flat-square)](https://github.com/barebell/DA/commits/master)
 
 The resources only focus on unsupervised domain adapation(UDA) and these include related papers and the codes from top conferences and journals. You are welcome to pull any requests as you will. I'll sort out the content soon.
 
-- [Unsupervised Domain Adaptation](#Unsupervised-Domain-Adaptation)
-  - [Conference Papers](#Conference-Papers)
-    - [2019 Conference Papers](#2019-Conference-Papers)
-    - [2018 Conference Papers](#2018-Conference-Papers)
-    - [Conference Papers befor 2018](#Conference-Papers-befor-2018)
-  - [Journal Papers](#Journal-Papers)
-  - [arXiv Papers](#arXiv-Papers)
-  - [Paper Placeholder](#Paper-Placeholder)
-  - [Other Resources](#Other-Resources)
+- [Unsupervised Domain Adaptation](#unsupervised-domain-adaptation)
+  - [Conference Papers](#conference-papers)
+    - [2019 Conference Papers](#2019-conference-papers)
+    - [2018 Conference Papers](#2018-conference-papers)
+    - [Conference Papers befor 2018](#conference-papers-befor-2018)
+  - [Journal Papers](#journal-papers)
+  - [arXiv Papers](#arxiv-papers)
+  - [Paper Placeholder](#paper-placeholder)
+  - [Other Resources](#other-resources)
 
 ## Conference Papers
 
