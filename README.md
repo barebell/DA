@@ -7,6 +7,7 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 
 - [Unsupervised Domain Adaptation](#unsupervised-domain-adaptation)
   - [Conference Papers](#conference-papers)
+    - [2020 Conference Papers](#2020-conference-papers)
     - [2019 Conference Papers](#2019-conference-papers)
     - [2018 Conference Papers](#2018-conference-papers)
     - [Conference Papers befor 2018](#conference-papers-befor-2018)
@@ -20,6 +21,8 @@ The resources only focus on unsupervised domain adapation(UDA) and these include
 ### 2020 Conference Papers
 | Abbreviation | Paper Title                                                                                                 | Source Link                                                                                                                                                                                            | Code                                                                                          | Tags                                                                              |
 | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **IAST** | Instance Adaptive Self-Training for Unsupervised Domain Adaptation | [ECCV2020](https://arxiv.org/abs/2008.12197) | [Pytorch(Official)](https://github.com/bupt-ai-cz/IAST-ECCV2020) | `Self-training` |
+| - | Cross-stained Segmentation from Renal Biopsy Images Using Multi-level Adversarial Learning | [ICASSP2020](https://arxiv.org/abs/2002.08587) | - | `Adversarial Training` `Medical` |
 | **MRNet** | Unsupervised Scene Adaptation with Memory Regularization in vivo | [IJCAI2019](https://arxiv.org/pdf/1912.11164.pdf) | [Pytorch(Official)](https://github.com/layumi/Seg-Uncertainty) | `Memory Regularization`  |
 
 ### 2019 Conference Papers
